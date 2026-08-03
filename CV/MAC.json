@@ -265,6 +265,10 @@
           "type": "technology"
         },
         {
+          "name": "R",
+          "type": "technology"
+        },
+        {
           "name": "Rust",
           "type": "technology"
         }
