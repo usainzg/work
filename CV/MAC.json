@@ -255,6 +255,14 @@
         {
           "name": "PyTorch",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
