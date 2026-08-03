@@ -1,0 +1,290 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Unai",
+      "surnames": "Sainz de la Maza Gamboa",
+      "title": "PhD Student @ University of the Basque Country",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/usainzg/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "UPV/EHU"
+        },
+        "roles": [
+          {
+            "name": "PHD Student",
+            "startDate": "2025-02-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Donostia International Physics Center (DIPC)"
+        },
+        "roles": [
+          {
+            "name": "PHD Student",
+            "startDate": "2023-05-01",
+            "finishDate": "2025-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Multiverse Computing"
+        },
+        "roles": [
+          {
+            "name": "Machine Learning Engineer",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-05-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Multiverse Computing"
+        },
+        "roles": [
+          {
+            "name": "Machine Learning Engineer Intern",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Researched gate-based quantum extreme learning machine applied to classifications tasks for my bachelor's thesis."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
+        "fullName": "Euskera",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rust",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor's degree",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "UPV/EHU"
+        },
+        "finishDate": "2021-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de aplicaciones Multiplataforma",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "CIFP Tartanga"
+        },
+        "finishDate": "2017-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Doctor of Philosophy - PhD",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "UPV/EHU"
+        },
+        "finishDate": "2027-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in Computational Intelligence and Intelligent Systems",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "UPV/EHU"
+        },
+        "finishDate": "2023-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnico en Sistemas Microinformaticos y Redes",
+        "startDate": "2013-01-01",
+        "institution": {
+          "name": "CIFP Zornotza"
+        },
+        "finishDate": "2015-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/usainzg/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Machine Learning Engineer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "PyTorch",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "R",
+        "type": "technology"
+      },
+      {
+        "name": "Rust",
+        "type": "technology"
+      }
+    ]
+  }
+}
