@@ -251,6 +251,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Data Engineer",
         "Data Scientist",
