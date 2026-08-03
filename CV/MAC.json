@@ -212,13 +212,12 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Doctor of Philosophy - PhD",
         "startDate": "2023-01-01",
         "institution": {
           "name": "UPV/EHU"
-        },
-        "finishDate": "2027-01-01"
+        }
       },
       {
         "studyType": "officialDegree",
@@ -253,6 +252,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Data Scientist",
         "Machine Learning Engineer"
       ]
     },
