@@ -253,6 +253,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "PyTorch",
           "type": "technology"
         },
