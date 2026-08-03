@@ -252,6 +252,7 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Data Engineer",
         "Data Scientist",
         "Machine Learning Engineer"
       ]
